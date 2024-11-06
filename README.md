@@ -2,7 +2,13 @@
 
 Here are some screenshots of the app:
 
-![Home Screen](app/assets/6.jpg)
+![Home Screen](app/src/assets/6.jpg)
+![LoginScreen](app/src/assets/2.jpg)
+![LoginScreen](app/src/assets/3.jpg)
+![Product Listing Light](app/src/assets/7.jpg)
+![Product Listing Dark](app/src/assets/5.jpg)
+![Product Details](app/src/assets/4.jpg)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
