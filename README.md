@@ -1,18 +1,30 @@
-# Welcome to your Expo app 👋
+# Zyra - Fasion MarketPlace (React Native Expo Application) 👋
 
 Here are some screenshots of the app:
 
-![Home Screen](app/src/assets/6.jpg)
-![LoginScreen](app/src/assets/2.jpg)
-![LoginScreen](app/src/assets/3.jpg)
-![Product Listing Light](app/src/assets/7.jpg)
-![Product Listing Dark](app/src/assets/5.jpg)
-![Product Details](app/src/assets/4.jpg)
+| ![Home Screen](app/src/assets/6.jpg) | ![LoginScreen](app/src/assets/2.jpg) | ![LoginScreen](app/src/assets/3.jpg) |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| ![Product Listing Light](app/src/assets/7.jpg) | ![Product Listing Dark](app/src/assets/5.jpg) | ![Product Details](app/src/assets/4.jpg) |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+
+| ![Cart Screen](app/src/assets/1.jpg) |       
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
+1. Clone the repository
+    ```bash
+   git clone https://github.com/deep1910/ZyraApp/
+   ```
+2. Connect the Mobile Device via USB
+   Turn on Developer Mode on Mobile and USB Debugging
+   check the connected device
+   
+   ```bash
+   adb devices
+   ```
+       
 1. Install dependencies
 
    ```bash
